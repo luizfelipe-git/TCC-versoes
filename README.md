@@ -1,4 +1,8 @@
-# **IMPORTANTE**
+<h1>[DEPRECATED]</h1>
+Esse repositório foi descontinuado, e migrado para https://github.com/raulcommits/PrototipoDeTCC-VyaSaude
+
+
+# *IMPORTANTE*
 
 - Significados:
   - **Clonar**: Baixar arquivos do GitHub pela PRIMEIRA vez.
